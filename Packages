@@ -28,7 +28,6 @@ Section: Tweaks
 Homepage: http://sn8pe.us
 Description: Translate texts in the screen!!
 Author: Sky - Pain
-Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.sky.translation.png
 Name: Translation
 
 Package: com.kurrt.safeshutdown
