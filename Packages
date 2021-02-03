@@ -75,5 +75,5 @@ SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
 SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
 Depends: mobilesubstrate
 Homepage: http://sn8pe.us
-Version: 0.9-2+debug
+Version: 2.9-2+debug
 Installed-Size: 140
