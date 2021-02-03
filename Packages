@@ -298,3 +298,19 @@ Author: Sticktron <sticktron@hotmail.com>
 Icon: file:///Library/PreferenceBundles/CCMetersSettings.bundle/Icon.png
 Name: CCMeters (iOS 7-8)
 
+Package: com.twickd.td.bundleidsxi
+Version: 2.0
+Architecture: iphoneos-arm
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
+Size: 49196
+MD5sum: e565b981086ace10c632d06636827497
+SHA1: a7baa3f3bc42ca31df412e2f99bd8275d46b4ea3
+SHA256: 827d550b60fdbad97ba327604f9f171059cbbc7e40f8c9386ebbfb3473c61fbd
+Section: Utilities
+Homepage: http://sticktron.net
+Description: App to see installed app bundle IDs.
+Author: TD <sticktron@hotmail.com>
+Icon: file:///Library/PreferenceBundles/CCMetersSettings.bundle/Icon.png
+Name: BundlleIDsXI
