@@ -1,8 +1,8 @@
-Origin: <Your Repo’s Name>
-Label: <Your Repository’s Label >
+Origin: Sticktron's Lab
+Label: Sticktron's Lab
 Suite: stable
-Version: 1.0
-Codename: cydia-ios
+Version: 69
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: <Your Repo’s Display Name>
+Description: My personal repo for betas, experiments etc.
