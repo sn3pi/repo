@@ -66,14 +66,14 @@ Package: com.sn3pi.11procam
 Name: 11ProCam
 Architecture: iphoneos-arm
 Description: 11ProCam for old ios
-Filename: ./debs/com.sn3pi.11procam_1.9_iphoneos-arm.deb
+Filename: ./debs/com.sn3pi.11procam_0.9-2+debug_iphoneos-arm.deb
 Maintainer: Sn3pi
 Author: Sn3pi
 Section: Tweaks
-Depends: mobilesubstrate, firmware (>=13.0)
+MD5sum: d50c02c8428f4698c8b2be9264f28fd3
+SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
+SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
+Depends: mobilesubstrate (>= 0.9.5000)
 Homepage: http://sn8pe.us
-Version: 1.9
-MD5sum: 42f1b2cd4cff4f00699845e704b5ceac
-SHA1: 53444dc1f362391507cb249aadc5512854b6756d
-SHA256: b07967d708f167a91bee05f7cb2def5abdf79ff34002ad14ab945765835ef031
+Version: 0.9-2+debug
 Installed-Size: 140
