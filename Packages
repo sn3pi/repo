@@ -70,7 +70,7 @@ Filename: ./debs/com.sn3pi.11procam_1.9_iphoneos-arm.deb
 Maintainer: Sn3pi
 Author: Sn3pi
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate, firmware (>=13.0)
 Homepage: http://sn8pe.us
 Version: 1.9
 MD5sum: 42f1b2cd4cff4f00699845e704b5ceac
