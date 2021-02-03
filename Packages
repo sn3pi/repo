@@ -63,17 +63,17 @@ Author: DGh0st
 Name: FLEXall
 
 Package: com.sn3pi.11procam
-Version: 0.0.1-21
-Architecture: iphoneos-arm
-Installed-Size: 140
-Depends: mobilesubstrate
-Filename: ./debs/com.sn3pi.11procam_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3720
-MD5sum: 83ffd8b5c705621c242b1e50701efd94
-SHA1: 24f6b245638ed87ea0156e1d7ffaed3a9ea0fdd3
-SHA256: 413ec66adee0a902efd0531a00b80fadb75574a0d6825b2e6a8e5ee59faea5f1
-Section: Tweaks
-Homepage: http://sn8pe.us
-Description: Features Camera 11PRo for old ios.
-Author: Sn3pi
 Name: 11ProCam
+Architecture: iphoneos-arm
+Description: 11ProCam for old ios
+Filename: ./debs/com.sn3pi.11procam_1.9_iphoneos-arm.deb
+Maintainer: Sn3pi
+Author: Sn3pi
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Homepage: http://sn8pe.us
+Version: 1.9
+MD5sum: 42f1b2cd4cff4f00699845e704b5ceac
+SHA1: 53444dc1f362391507cb249aadc5512854b6756d
+SHA256: b07967d708f167a91bee05f7cb2def5abdf79ff34002ad14ab945765835ef031
+Installed-Size: 140
