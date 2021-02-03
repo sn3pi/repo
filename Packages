@@ -73,7 +73,7 @@ Section: Tweaks
 MD5sum: d50c02c8428f4698c8b2be9264f28fd3
 SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
 SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>=13.0)
 Homepage: http://sn8pe.us
 Version: 2.9-2+debug
 Installed-Size: 140
