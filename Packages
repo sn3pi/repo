@@ -38,8 +38,8 @@ Size: 3720
 MD5sum: 83ffd8b5c705621c242b1e50701efd94
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: 11ProCam
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.11procam
+Author: Sn3pi <adelrepo@gmail.com>
+Depiction: https://sn3pi.github.io/repo/depictions/?p=com.supermamon.11procam
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
