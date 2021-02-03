@@ -67,14 +67,13 @@ Name: 11ProCam
 Architecture: iphoneos-arm
 Description: 11ProCam for old ios
 Filename: ./debs/com.sn3pi.11procam_0.9-2+debug_iphoneos-arm.deb
-Maintainer: Sn3pi
 Author: Sn3pi
 Size: 3692
 Section: Tweaks
 MD5sum: d50c02c8428f4698c8b2be9264f28fd3
 SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
 SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Homepage: http://sn8pe.us
 Version: 0.9-2+debug
 Installed-Size: 140
