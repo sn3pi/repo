@@ -14,28 +14,11 @@ Description: App to see installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
 Name: BundlleIDsXI0
 
-
-Package: com.elias.socialdownloader
-Version: 1.2-1
-Architecture: iphoneos-arm
-Installed-Size: 1744
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
-Size: 146042
-MD5sum: ab4f17724e6b2d9e568d248d5e02eb68
-SHA1: ba3cd7988641ebaac94e510a300e60912d5f035e
-SHA256: ccc53191f95b5f78f97d5349c2b141ea5890e0c047f2a101e74cf87523d4f053
-Section: Tweaks
-Homepage: http://sn8pe.us
-Description: Download photos / videos and stories from Social Apps!!
-Author: elias
-Name: Social Downloader
-
 Package: com.sky.translation
 Version: 1.5.0
 Architecture: iphoneos-arm
 Installed-Size: 736
-Depends: mobilesubstrate, ws.hbang.common
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
 Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
 Size: 115478
 MD5sum: 690c762184a07e417eb8633721cc9506
