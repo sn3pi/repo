@@ -63,3 +63,19 @@ Homepage: http://sn8pe.us
 Description: Translate texts in the screen!!
 Author: Sn3pi <adelrepo@gmail.com>
 Name: SafeShutDown Crack
+
+Package: com.dgh0st.flexall
+Version: 0.0.1-21
+Architecture: iphoneos-arm
+Installed-Size: 260
+Depends: mobilesubstrate, libflex
+Filename: ./debs/com.dgh0st.flexall_0.0.1-21_iphoneos-arm.deb
+Size: 22780
+MD5sum: 1734bb400b9cf0432ce13c6d1973d984
+SHA1: 0671ee9464d9030e0eeafe2763c13cb956dd0bf1
+SHA256: c16b28b398aff16d343085caf7839a92da1b6611f3b5c2a6abb51f20e46bd9cd
+Section: Tweaks
+Homepage: http://sn8pe.us
+Description: Load FLEX loader dynamically.
+Author: DGh0st
+Name: FLEXall

@@ -1,8 +1,8 @@
-Origin: Sticktron's Lab
-Label: Sticktron's Lab
+Origin: Sn3pi Repo
+Label: Sn3pi Repo
 Suite: stable
 Version: 69
 Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: My personal repo for betas, experiments etc.
+Description: My personal repo for Hack Tweak
