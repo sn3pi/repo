@@ -19,7 +19,7 @@ Version: 1.5.0
 Architecture: iphoneos-arm
 Installed-Size: 736
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
-Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
+Filename: ./debs/translation_1.5.0.deb
 Size: 115478
 MD5sum: 690c762184a07e417eb8633721cc9506
 SHA1: cc20e46c5c94ab120baed9bdf8e329b13f168c8f
@@ -62,3 +62,19 @@ Homepage: http://sn8pe.us
 Description: Load FLEX loader dynamically.
 Author: DGh0st
 Name: FLEXall
+
+Package: com.sn3pi.11procam
+Version: 0.0.1-21
+Architecture: iphoneos-arm
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.sn3pi.11procam_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3720
+MD5sum: 83ffd8b5c705621c242b1e50701efd94
+SHA1: 24f6b245638ed87ea0156e1d7ffaed3a9ea0fdd3
+SHA256: 413ec66adee0a902efd0531a00b80fadb75574a0d6825b2e6a8e5ee59faea5f1
+Section: Tweaks
+Homepage: http://sn8pe.us
+Description: Features Camera 11PRo for old ios.
+Author: Sn3pi
+Name: 11ProCam
