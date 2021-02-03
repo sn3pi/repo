@@ -12,7 +12,6 @@ Section: Utilities
 Homepage: http://sn8pe.us
 Description: App to see installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
-Icon: file:///Library/PreferenceBundles/CCMetersSettings.bundle/Icon.png
 Name: BundlleIDsXI0
 
 
@@ -30,5 +29,37 @@ Section: Tweaks
 Homepage: http://sn8pe.us
 Description: Download photos / videos and stories from Social Apps!!
 Author: elias
-Icon: file:///Library/PreferenceBundles/CCMetersSettings.bundle/Icon.png
 Name: Social Downloader
+
+Package: com.sky.translation
+Version: 1.5.0
+Architecture: iphoneos-arm
+Installed-Size: 736
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
+Size: 115478
+MD5sum: 690c762184a07e417eb8633721cc9506
+SHA1: cc20e46c5c94ab120baed9bdf8e329b13f168c8f
+SHA256: 46188e1508f4abe4147b46f24d4489244685f5f1b68411d28a4118b4e4dba4b6
+Section: Tweaks
+Homepage: http://sn8pe.us
+Description: Translate texts in the screen!!
+Author: Sky - Pain
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.sky.translation.png
+Name: Translation
+
+Package: com.kurrt.safeshutdown
+Version: 1.72
+Architecture: iphoneos-arm
+Installed-Size: 12368
+Depends: mobilesubstrate
+Filename: ./debs/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
+Size: 9442736
+MD5sum: 42c1aa0f86789dd76f0d7f66a46acf22
+SHA1: b2edb1eb754f1a2e0c95acc947dc9252db60407f
+SHA256: 89b852849a16cc4181d88c46003e5a8d6cf7fe8d5738e6b74877f1279a51973b
+Section: Tweaks
+Homepage: http://sn8pe.us
+Description: Translate texts in the screen!!
+Author: Sn3pi <adelrepo@gmail.com>
+Name: SafeShutDown Crack
