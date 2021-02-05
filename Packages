@@ -32,20 +32,20 @@ Version: 2.9-2+debug
 Installed-Size: 140
 
 Package: com.sn3pi.icons
-Name: Sn3pi icons
+Name: Sn3pi Icons
+Version: 1.0
+Tag: purpose::extension
+Filename: ./debs/com.sn3pi.icons-1.0.deb
+Author: Sn3pi <adelrepo@gmail.com>
+Maintainer: Sn3pi <adelrepo@gmail.com>
+Description: Icons Sn3pi Repo
+Section: Sn3pi - System
+Size: 553278
 Architecture: iphoneos-arm
-Description: 11ProCam for old ios
-Filename: ./debs/com.sn3pi.icons_1.0_iphoneos-arm.deb
-Author: Sn3pi
-Size: 1990390
-Section: Tweaks - System
+MD5sum: ac9cf301bc37422ed2cfbcb8f797ff38
+SHA1: a8efbb706564132d7c502fd54f3fbad04bbcdc7e
+SHA256: 997c9e466a29feae044d6eac8447cd1aa997e43ed32951208f00e2d02b7ce66b
 Required: Yes
 Essential: Yes
 Priority: required
-MD5sum: 93195896bb47ed53bc42f788d6ba55ae
-SHA1: 40715278067a9a52e786028c8bbc5ee56c3d24fc
-SHA256: a2935586a8c51b899ba87f34cc11d3e85daedc0fc907a869219bf7406f67ed02
-Depends: mobilesubstrate
-Homepage: http://sn8pe.us
-Version: 1.0
-Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_System
+Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_ss
