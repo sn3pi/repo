@@ -35,18 +35,18 @@ Package: com.sn3pi.icons
 Name: Sn3pi Icons
 Version: 1.0
 Tag: purpose::extension
-Filename: ./debs/com.sn3pi.icons-1.0.deb
+Filename: ./debs/com.sn3pi.icons_1.0_iphoneos-arm.deb
 Author: Sn3pi <adelrepo@gmail.com>
 Maintainer: Sn3pi <adelrepo@gmail.com>
-Description: Icons Sn3pi Repo
+Description: Icons Sn3pi....... Repo
 Section: Sn3pi - System
-Size: 553278
+Size: 556486
 Architecture: iphoneos-arm
-MD5sum: ac9cf301bc37422ed2cfbcb8f797ff38
-SHA1: a8efbb706564132d7c502fd54f3fbad04bbcdc7e
-SHA256: 997c9e466a29feae044d6eac8447cd1aa997e43ed32951208f00e2d02b7ce66b
+MD5sum: eff7fb03125c83d859fefba0b17e1ea0
+SHA1: 1c26ee6d6e38dd913a6afb9381e55581d534e656
+SHA256: d1adc821aefa93efd095668e35c924175a2c615f08ea6a8dcd246745ab7188cf
 Required: Yes
 Depends: mobilesubstrate
 Essential: Yes
 Priority: required
-Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_ss
+Icon: https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/preferences_settings_options_parameters-2-512.png
