@@ -46,6 +46,7 @@ MD5sum: ac9cf301bc37422ed2cfbcb8f797ff38
 SHA1: a8efbb706564132d7c502fd54f3fbad04bbcdc7e
 SHA256: 997c9e466a29feae044d6eac8447cd1aa997e43ed32951208f00e2d02b7ce66b
 Required: Yes
+Depends: mobilesubstrate
 Essential: Yes
 Priority: required
 Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_ss
