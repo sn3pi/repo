@@ -14,53 +14,6 @@ Description: App to see installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
 Name: BundlleIDsXI0
 
-Package: com.sky.translation
-Version: 1.5.0
-Architecture: iphoneos-arm
-Installed-Size: 736
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
-Filename: ./debs/translation_1.5.0.deb
-Size: 115478
-MD5sum: 690c762184a07e417eb8633721cc9506
-SHA1: cc20e46c5c94ab120baed9bdf8e329b13f168c8f
-SHA256: 46188e1508f4abe4147b46f24d4489244685f5f1b68411d28a4118b4e4dba4b6
-Section: Tweaks
-Homepage: http://sn8pe.us
-Description: Translate texts in the screen!!
-Author: Sky - Pain
-Name: Translation
-
-Package: com.kurrt.safeshutdown
-Version: 1.72
-Architecture: iphoneos-arm
-Installed-Size: 12368
-Depends: mobilesubstrate
-Filename: ./debs/com.kurrt.safeshutdown_1.72_iphoneos-arm.deb
-Size: 9442736
-MD5sum: 42c1aa0f86789dd76f0d7f66a46acf22
-SHA1: b2edb1eb754f1a2e0c95acc947dc9252db60407f
-SHA256: 89b852849a16cc4181d88c46003e5a8d6cf7fe8d5738e6b74877f1279a51973b
-Section: Tweaks
-Homepage: http://sn8pe.us
-Description: Translate texts in the screen!!
-Author: Sn3pi <adelrepo@gmail.com>
-Name: SafeShutDown Crack
-
-Package: com.dgh0st.flexall
-Version: 0.0.1-21
-Architecture: iphoneos-arm
-Installed-Size: 260
-Depends: mobilesubstrate, libflex
-Filename: ./debs/com.dgh0st.flexall_0.0.1-21_iphoneos-arm.deb
-Size: 22780
-MD5sum: 1734bb400b9cf0432ce13c6d1973d984
-SHA1: 0671ee9464d9030e0eeafe2763c13cb956dd0bf1
-SHA256: c16b28b398aff16d343085caf7839a92da1b6611f3b5c2a6abb51f20e46bd9cd
-Section: Tweaks
-Homepage: http://sn8pe.us
-Description: Load FLEX loader dynamically.
-Author: DGh0st
-Name: FLEXall
 
 Package: com.sn3pi.11procam
 Name: 11ProCam
@@ -77,3 +30,22 @@ Depends: mobilesubstrate, firmware (>=13.0)
 Homepage: http://sn8pe.us
 Version: 2.9-2+debug
 Installed-Size: 140
+
+Package: com.sn3pi.icons
+Name: Sn3pi icons
+Architecture: iphoneos-arm
+Description: 11ProCam for old ios
+Filename: ./debs/com.sn3pi.icons_1.0_iphoneos-arm.deb
+Author: Sn3pi
+Size: 1990390
+Section: Tweaks - System
+Required: Yes
+Essential: Yes
+Priority: required
+MD5sum: 93195896bb47ed53bc42f788d6ba55ae
+SHA1: 40715278067a9a52e786028c8bbc5ee56c3d24fc
+SHA256: a2935586a8c51b899ba87f34cc11d3e85daedc0fc907a869219bf7406f67ed02
+Depends: mobilesubstrate
+Homepage: http://sn8pe.us
+Version: 1.0
+Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_System
