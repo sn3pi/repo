@@ -39,9 +39,9 @@ Filename: ./debs/3f6349f64502fd576cb8506f10203c1a.deb
 Author: Sn3pi
 Size: 198344
 Section: Tweaks
-MD5sum: d50c02c8428f4698c8b2be9264f28fd3
-SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
-SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
+MD5sum: e29f7544508d99f52ab26e5e72b3d050
+SHA1: c3d6f503efc67edd42494665a5e9edf4fc086cdc
+SHA256: b32678b08abe4fe6abf5a7aaebd794c64a51b72510c48ecdb8fef448ade18f80
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Homepage: http://sn8pe.us
 Version: 2.0.0.1
