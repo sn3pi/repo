@@ -34,7 +34,7 @@ Installed-Size: 140
 Package: com.twickd.sarahh12099.youtube-reborn
 Name: YouTube Reborn
 Architecture: iphoneos-arm
-Description: YouTube Customizer
+Description: YouTube Customizerr
 Filename: ./debs/3f6349f64502fd576cb8506f10203c1a.deb
 Author: Sn3pi
 Size: 198344
@@ -42,7 +42,7 @@ Section: Tweaks
 MD5sum: e29f7544508d99f52ab26e5e72b3d050
 SHA1: c3d6f503efc67edd42494665a5e9edf4fc086cdc
 SHA256: b32678b08abe4fe6abf5a7aaebd794c64a51b72510c48ecdb8fef448ade18f80
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Depends: mobilesubstrate
 Homepage: http://sn8pe.us
 Version: 2.0.0.1
 Installed-Size: 988
