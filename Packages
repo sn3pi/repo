@@ -31,22 +31,18 @@ Homepage: http://sn8pe.us
 Version: 2.9-2+debug
 Installed-Size: 140
 
-Package: com.sn3pi.icons
-Name: Sn3pi Icons
-Version: 1.0
-Tag: purpose::extension
-Filename: ./debs/com.sn3pi.icons_1.0_iphoneos-arm.deb
-Author: Sn3pi <adelrepo@gmail.com>
-Maintainer: Sn3pi <adelrepo@gmail.com>
-Description: Icons Sn3pi5hjioh
-Section: Sn3pi - System
-Size: 556486
+Package: com.twickd.sarahh12099.youtube-reborn
+Name: YouTube Reborn
 Architecture: iphoneos-arm
-MD5sum: eff7fb03125c83d859fefba0b17e1ea0
-SHA1: 1c26ee6d6e38dd913a6afb9381e55581d534e656
-SHA256: d1adc821aefa93efd095668e35c924175a2c615f08ea6a8dcd246745ab7188cf
-Required: Yes
-Depends: mobilesubstrate
-Essential: Yes
-Priority: required
-Icon: https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/preferences_settings_options_parameters-2-512.png
+Description: YouTube Customizer
+Filename: ./debs/3f6349f64502fd576cb8506f10203c1a.deb
+Author: Sn3pi
+Size: 198344
+Section: Tweaks
+MD5sum: d50c02c8428f4698c8b2be9264f28fd3
+SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
+SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Homepage: http://sn8pe.us
+Version: 2.0.0.1
+Installed-Size: 988
