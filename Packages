@@ -49,7 +49,7 @@ Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.
 Package: com.sn3pi.dleasy
 Name: DLEasy Cracked
 Version: 2.8.6-2
-Filename: ./debs/5e19a8f0500e06001a9a4b7d.deb
+Filename: ./debs/com.sn3pi.dleasy_2.8.6-2_iphoneos-arm.deb
 Author: Sn3pi <adelrepo@gmail.com>
 Description: Download images and videos from social networks.
 Size: 4816022
