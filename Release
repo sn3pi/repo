@@ -1,8 +1,8 @@
-Origin: Sn3pi Repo
-Label: Sn3pi Repo
+Origin: Sn3pi
+Label: Sn3pi
 Suite: stable
-Version: 69
-Codename: stable
+Version: 10.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My personal repo for Hack Tweak
+Description: Sn3pi - a cydia repo template

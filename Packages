@@ -31,18 +31,19 @@ Homepage: http://sn8pe.us
 Version: 2.9-2+debug
 Installed-Size: 140
 
-Package: com.twickd.sarahh12099.youtube-reborn
-Name: YouTube Reborn
+Package: com.laughingquoll.cowbell1
+Name: Cowbell
 Architecture: iphoneos-arm
-Description: YouTube Customizerr
-Filename: ./debs/3f6349f64502fd576cb8506f10203c1a.deb
-Author: Sn3pi
-Size: 198344
+Description: Display the charger percentage in games with the volume down button.
+Filename: ./debs/5e19a8f0500e06001a9a4b7d.deb
+Author: LaughingQuoll
+Size: 4964 
 Section: Tweaks
-MD5sum: e29f7544508d99f52ab26e5e72b3d050
-SHA1: c3d6f503efc67edd42494665a5e9edf4fc086cdc
-SHA256: b32678b08abe4fe6abf5a7aaebd794c64a51b72510c48ecdb8fef448ade18f80
+MD5sum: d652c0a0a7f472e12b3da8ed8adcaadf
+SHA1: a392cdf10b2eef77e2181248005f8f2e81c0c77f
+SHA256: eff80f4dd70f49e766f473fa0badaa6fbc1f8c69c4dcde4d7cea5347b75735d3
 Depends: mobilesubstrate
 Homepage: http://sn8pe.us
-Version: 2.0.0.1
-Installed-Size: 988
+Version: 1.2.2
+Installed-Size: 136
+
