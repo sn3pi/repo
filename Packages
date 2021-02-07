@@ -31,19 +31,38 @@ Homepage: http://sn8pe.us
 Version: 2.9-2+debug
 Installed-Size: 140
 
-Package: com.laughingquoll.cowbell1
-Name: Cowbell
+Package: com.sn3pi.rocket-for-instagram
+Name: Rocket 4 Instagram Cracked
+Version: 3.7.14
+Tag: purpose::extension
+Filename: ./debs/com.sn3pi.rocket-for-instagram_3.7.14_iphoneos-arm.deb
+Author: Sn3pi <adelrepo@gmail.com>
+Maintainer: Sn3pi <adelrepo@gmail.com>
+Description: Save posts and view stories anonymously and do much more
+Size: 6062752
+MD5sum: 9d79874f0e14b29294e6927c4b22aa54
+SHA1: 133c12ce91233cf6cf51d49bbc2c1ef65928d5f0
+SHA256: 2cec1de8fafc519e71ff369ddddebac85d54043960da4a8542cd2db8c987e737
+Section: Tweaks Cracked
 Architecture: iphoneos-arm
-Description: Display the charger percentage in games with the volume down button.
-Filename: ./debs/5e19a8f0500e06001a9a4b7d.deb
-Author: LaughingQuoll
-Size: 4964 
-Section: Tweaks
-MD5sum: d652c0a0a7f472e12b3da8ed8adcaadf
-SHA1: a392cdf10b2eef77e2181248005f8f2e81c0c77f
-SHA256: eff80f4dd70f49e766f473fa0badaa6fbc1f8c69c4dcde4d7cea5347b75735d3
-Depends: mobilesubstrate
 Homepage: http://sn8pe.us
-Version: 1.2.2
-Installed-Size: 136
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_Tweaks_Cracked
 
+Package: com.sn3pi.dleasy
+Name: DLEasy Cracked
+Version: 2.8.6-2
+Tag: purpose::extension
+Filename: ./debs/5e19a8f0500e06001a9a4b7d.deb
+Author: Sn3pi <adelrepo@gmail.com>
+Maintainer: Sn3pi <adelrepo@gmail.com>
+Description: Download images and videos from social networks.
+Size: 4816022
+MD5sum: 8fcc07b9ef0ef2a737d37bc4bd8af0e0
+SHA1: 3a4249ad7d93e1a42ec2397b67055431fca15737
+SHA256: 8d18aa99b5da6b8525873519b198bf56c0d0e9b8c5353479aaea6c019e5727de
+Section: Tweaks Cracked
+Architecture: iphoneos-arm
+Homepage: http://sn8pe.us
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
