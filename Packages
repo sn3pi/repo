@@ -34,10 +34,8 @@ Installed-Size: 140
 Package: com.sn3pi.rocket-for-instagram
 Name: Rocket 4 Instagram Cracked
 Version: 3.7.14
-Tag: purpose::extension
 Filename: ./debs/com.sn3pi.rocket-for-instagram_3.7.14_iphoneos-arm.deb
 Author: Sn3pi <adelrepo@gmail.com>
-Maintainer: Sn3pi <adelrepo@gmail.com>
 Description: Save posts and view stories anonymously and do much more
 Size: 6062752
 MD5sum: 9d79874f0e14b29294e6927c4b22aa54
@@ -47,15 +45,12 @@ Section: Tweaks Cracked
 Architecture: iphoneos-arm
 Homepage: http://sn8pe.us
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
-Icon: https://content.appweleux.com/AppWeleux/Repo/AppWeleux_-_Tweaks_Cracked
 
 Package: com.sn3pi.dleasy
 Name: DLEasy Cracked
 Version: 2.8.6-2
-Tag: purpose::extension
 Filename: ./debs/5e19a8f0500e06001a9a4b7d.deb
 Author: Sn3pi <adelrepo@gmail.com>
-Maintainer: Sn3pi <adelrepo@gmail.com>
 Description: Download images and videos from social networks.
 Size: 4816022
 MD5sum: 8fcc07b9ef0ef2a737d37bc4bd8af0e0
@@ -65,4 +60,3 @@ Section: Tweaks Cracked
 Architecture: iphoneos-arm
 Homepage: http://sn8pe.us
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
