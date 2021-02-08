@@ -35,16 +35,14 @@ Package: com.sn3pi.starvideo
 Name: video star Hack
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.starvideo_1.0-1+debug_iphoneos-arm.deb
-Version: 1.0
+Version: 1.0-1debug
 Size: 112764
 Installed-Size: 744
 MD5sum: 537efa63d391cb9b9c0e7d8154b6f93c
 SHA1: 03e5700885156846adee67e6582b7d24aa51bb6d
 SHA256: 416ac41d0145b7b500333786942fbb9c9c70adc9b91354e3f6b795cadfc29b37
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Video star goooo!
-Maintainer: Sn3pi
 Homepage: http://sn8pe.us
 Author: Sn3pi
 Section: Tweaks
