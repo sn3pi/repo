@@ -1,6 +1,4 @@
-<html><head>
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+-<html><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title> sn3pi Repo </title>
@@ -26,41 +24,49 @@ body {
   vertical-align: 23px;
 }
 
-.fa {
-  padding: 8px;
-  font-size: 20px;
-  width: 23px;
-  border-radius: 99px;
+body {margin:0;height:0px;}
+
+.icon-bar {
+  position: fixed;
+  top: 70%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
   text-align: center;
-  text-decoration: none;
-  margin: 250px 2px;
+  padding: 6px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
 }
 
-.fa:hover {
-    opacity: 0.7;
+.icon-bar a:hover {
+  background-color: #000;
 }
 
-.fa-facebook {
+.facebook {
   background: #3B5998;
   color: white;
 }
 
-.fa-twitter {
-  background: #55ACEE;
+
+.telegram {
+  background: #007bb5;
   color: white;
 }
 
-
-.fa-telegram {
-  background: #6699ff;
-  color: white;
-}
-
-.fa-youtube {
+.youtube {
   background: #bb0000;
   color: white;
 }
 
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
 .footer {
     position: fixed;
     left: 0;
@@ -98,9 +104,11 @@ body {
 
 <!-- Add font awesome icons -->
 <center>
-<a href="https://www.facebook.com/aldoe.alwo" class="fa fa-facebook"></a>
-<a href="https://t.me/sn20i" class="fa fa-telegram"></a>
-<a href="https://www.youtube.com/channel/UCSHgtawNLF_t3DxS_eLwAbA" class="fa fa-youtube"></a>
+<div class="icon-bar">
+  <a href="https://www.facebook.com/aldoe.alwo" class="facebook"><i class="fa fa-facebook"></i></a> 
+  <a href="https://t.me/sn20i" class="telegram"><i class="fa fa-telegram"></i></a> 
+  <a href="https://www.youtube.com/channel/UCSHgtawNLF_t3DxS_eLwAbA" class="youtube"><i class="fa fa-youtube"></i></a> 
+</div>
 </center>
 
 <div class="footer">
