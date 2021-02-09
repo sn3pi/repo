@@ -34,8 +34,8 @@ Name: Sn3pi Repo Icons
 Depends: mobilesubstrate
 Filename: ./debs/icon.deb
 Version: 1.4-1
-Size: 17566
-Installed-Size: 172
+Size: 46302
+Installed-Size: 351
 MD5sum: ea265046048dc5f4a1f646c09b58c326
 SHA1: 569e8dda2dacf578e5b30ba11bd54cb884b85db7
 SHA256: 233b69e58da755be1fdd611ec1d2131932029d228642b2b0d5dc21260d591ecb
