@@ -40,6 +40,7 @@ Name: Sn3pi Repo Icons
 Package: com.Sn3pi.icone
 Priority: standard
 Section: hack
+Essential: yes
 SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
 Size: 46314
 Version 1.4-1
