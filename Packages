@@ -17,13 +17,13 @@ Name: BundlleIDsXI0
 Package: com.sn3pi.starvideo
 Name: VideoStar Hack
 Depends: mobilesubstrate
-Filename: ./debs/com.sn3pi.starvideo_1.0-3+debug_iphoneos-arm.deb
+Filename: ./debs/com.sn3pi.starvideo_1.0-4+debug_iphoneos-arm.deb
 Version: 1.0-3+debug
 Size: 112520
 Installed-Size: 744
-MD5sum: 708f3acbe1280b3db8bcd1d1ba5f123f
-SHA1: e7580e1d062d291ffb2c5897dde9dfbb1f3715fe
-SHA256: 08a0d0bb8f45213eadeb3dc6b68f14b80d1b8fdd7e5fcb385183028d88aad534
+MD5sum: 9f2d50f9c8a54a352ae291c1348de277
+SHA1: f4aa58bf3d0906a18d369baae5cfc6409d4d84ba
+SHA256: 1f58a4e7bb31784d1ed1b6779f9b984f453f1bb22ddc84ba3e3cee4fbae9e91c
 Architecture: iphoneos-arm
 Description: VideoStar Pro
 Author: Sn3pi
@@ -35,10 +35,10 @@ Depends: mobilesubstrate
 Filename: ./debs/icon.deb
 Version: 1.4-1
 Size: 17566
-Installed-Size: 200
-MD5sum: fff9fb52748f63a025f868d0e2772b13
-SHA1: 7a6c539275368989e2705c8f3c4d121d122a180e
-SHA256: f7e6bd4c518764363c5b6cd3ddb35607cc5caa96c8a6395cac337182be3a43a4
+Installed-Size: 450
+MD5sum: 691c8ab8a0104c9819fd3cb781beac32
+SHA1: 397df19358a958aca9cbf3172ab3635adc9dab74
+SHA256: c9ba29468ef367c974f0604f49eb432d29c86aabf6ed1f1c27b9ae70eed3aae8
 Description: Show Icons Repo ايقونات الاقسام
 Section: sn3pi
 Essential: yes
