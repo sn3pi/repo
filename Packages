@@ -35,7 +35,7 @@ Package: com.sn3pi.starvideo
 Name: VideoStar Hack
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.starvideo_1.0-3+debug_iphoneos-arm.deb
-Version: 1.0-1+debug
+Version: 1.0-3+debug
 Size: 112520
 Installed-Size: 744
 MD5sum: 708f3acbe1280b3db8bcd1d1ba5f123f
