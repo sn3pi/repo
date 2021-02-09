@@ -41,7 +41,5 @@ SHA256: f7e6bd4c518764363c5b6cd3ddb35607cc5caa96c8a6395cac337182be3a43a4
 Description: Show Icons Repo ايقونات الاقسام
 Section: sn3pi
 Essential: yes
-Maintainer: sn3pi <Adelrepo@gmail.com>
 Architecture: iphoneos-arm
 Author: Sn3pi
-Sponsor: sn3pi <www.sn8pe.us>
