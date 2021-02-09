@@ -27,7 +27,7 @@ SHA256: 08a0d0bb8f45213eadeb3dc6b68f14b80d1b8fdd7e5fcb385183028d88aad534
 Architecture: iphoneos-arm
 Description: VideoStar Pro
 Author: Sn3pi
-Section: sn3pi
+Section: hack
 
 Package: com.Sn3pi.icone
 Name: Sn3pi Repo Icons
