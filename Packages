@@ -14,26 +14,9 @@ Description: App to see installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
 Name: BundlleIDsXI0
 
-
-Package: com.sn3pi.11procam
-Name: 11ProCam
-Architecture: iphoneos-arm
-Description: 11ProCam for old ios
-Filename: ./debs/com.sn3pi.11procam_0.9-2+debug_iphoneos-arm.deb
-Author: Sn3pi
-Size: 3692
-Section: Tweaks
-MD5sum: d50c02c8428f4698c8b2be9264f28fd3
-SHA1: 46d8413d448b62b9458eb15bf5975f4bc028043b
-SHA256: f0622e3ba3623f65e47b7fe7baf316aa9899c32ea01244f314173635642d1638
-Depends: mobilesubstrate, firmware (>=13.0)
-Homepage: http://sn8pe.us
-Version: 2.9-2+debug
-Installed-Size: 140
-
 Package: com.sn3pi.starvideo
 Name: VideoStar Hack
-Depends: mobilesubstrate, com.Sn3pi.icone
+Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.starvideo_1.0-3+debug_iphoneos-arm.deb
 Version: 1.0-3+debug
 Size: 112520
