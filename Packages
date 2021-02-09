@@ -29,18 +29,17 @@ Description: VideoStar Pro
 Author: Sn3pi
 Section: hack
 
-Package: com.Sn3pi.icone
-Name: Sn3pi Repo Icons
-Depends: mobilesubstrate
-Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
-Version: 1.4-1
-Installed-Size: 46
-Size: 46314
-MD5sum: 467b35c2e59f319a89a64c55f838e34c
-SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
-Description: Show Icons Repo 0
-Essential: yes
+
 Architecture: iphoneos-arm
 Author: Sn3pi
-Section: sn3pi
-
+Description: Show Icons Repo
+Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
+Maintainer: Sn3pi <adelrepo@gmail.com>
+MD5sum: 467b35c2e59f319a89a64c55f838e34c
+Name: Sn3pi Repo Icons
+Package: com.Sn3pi.icone
+Priority: standard
+Section: Tweaks
+SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
+Size: 46314
+Version 1.4-1
