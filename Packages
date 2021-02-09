@@ -44,3 +44,18 @@ Section: sn3pi
 Essential: yes
 Architecture: iphoneos-arm
 Author: Sn3pi
+
+Package: sn3pi.flexlist
+Name: flexlist
+Depends: mobilesubstrate
+Filename: ./debs/icon.deb
+Version: 1.9-1
+Size: 1105826
+MD5sum: 4f79b668b10905f4f8017178e1076257
+SHA1: 4be642997592f722d0a60f61274f5a422c325aec
+SHA256: a797767b1fc893a5ba1fdcc78fbf39f58dbd8e0c7c0ea589d56a2fe49bd4620a
+Description: Show Icons Repo ايقونات الاقساما
+Section: sn3pi
+Essential: yes
+Architecture: iphoneos-arm
+Author: Sn3pi
