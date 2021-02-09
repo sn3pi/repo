@@ -35,7 +35,7 @@ Depends: mobilesubstrate
 Filename: ./debs/icon.deb
 Version: 1.4-1
 Size: 17566
-Installed-Size: 450
+Installed-Size: 60
 MD5sum: 691c8ab8a0104c9819fd3cb781beac32
 SHA1: 397df19358a958aca9cbf3172ab3635adc9dab74
 SHA256: c9ba29468ef367c974f0604f49eb432d29c86aabf6ed1f1c27b9ae70eed3aae8
