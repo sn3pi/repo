@@ -10,7 +10,7 @@ SHA1: a7baa3f3bc42ca31df412e2f99bd8275d46b4ea3
 SHA256: 827d550b60fdbad97ba327604f9f171059cbbc7e40f8c9386ebbfb3473c61fbd
 Section: Utilities
 Homepage: http://sn8pe.us
-Description: App to see installed app bundle IDs.
+Description: installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
 Name: BundlleIDsXI0
 
@@ -33,13 +33,12 @@ Package: com.Sn3pi.icone
 Name: Sn3pi Repo Icons
 Depends: mobilesubstrate
 Filename: ./debs/icon.deb
-Version: 1.4-1
+Version: 1.4
 Size: 17566
 MD5sum: fff9fb52748f63a025f868d0e2772b13
 SHA1: 7a6c539275368989e2705c8f3c4d121d122a180e
 SHA256: f7e6bd4c518764363c5b6cd3ddb35607cc5caa96c8a6395cac337182be3a43a4
 Description: Show Icons Repo ايقونات الاقسام
 Section: sn3pi
-Essential: yes
 Architecture: iphoneos-arm
 Author: Sn3pi
