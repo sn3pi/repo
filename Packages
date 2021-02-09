@@ -34,7 +34,7 @@ Name: Sn3pi Repo Icons
 Depends: mobilesubstrate
 Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
 Version: 1.4-1
-Installed-Size: 618
+Installed-Size: 615
 Size: 46314
 MD5sum: 467b35c2e59f319a89a64c55f838e34c
 SHA1: 551f8ae5503c73eb1465b105b077bbbae5d29da3
