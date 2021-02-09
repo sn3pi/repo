@@ -32,28 +32,16 @@ Section: hack
 Package: com.Sn3pi.icone
 Name: Sn3pi Repo Icons
 Depends: mobilesubstrate
-Filename: ./debs/icon.deb
+Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
 Version: 1.4-1
-Size: 46302
-MD5sum: ea265046048dc5f4a1f646c09b58c326
-SHA1: 569e8dda2dacf578e5b30ba11bd54cb884b85db7
-SHA256: 233b69e58da755be1fdd611ec1d2131932029d228642b2b0d5dc21260d591ecb
+Installed-Size: 46
+Size: 46314
+MD5sum: 467b35c2e59f319a89a64c55f838e34c
+SHA1: 551f8ae5503c73eb1465b105b077bbbae5d29da3
+SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
 Description: Show Icons Repo ايقونات الاقساما
 Section: sn3pi
 Essential: yes
 Architecture: iphoneos-arm
 Author: Sn3pi
 
-Package: sn3pi.flexlist
-Name: flexlist
-Depends: mobilesubstrate
-Filename: ./debs/netskao.flexlist_1.2-9_iphoneos-arm.deb
-Version: 1.9-1
-Size: 1105826
-MD5sum: 4f79b668b10905f4f8017178e1076257
-SHA1: 4be642997592f722d0a60f61274f5a422c325aec
-SHA256: a797767b1fc893a5ba1fdcc78fbf39f58dbd8e0c7c0ea589d56a2fe49bd4620a
-Description: Show Icons Repo ايقونات الاقساما
-Section: sn3pi
-Architecture: iphoneos-arm
-Author: Sn3pi
