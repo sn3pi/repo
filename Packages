@@ -35,10 +35,10 @@ Depends: mobilesubstrate
 Filename: ./debs/icon.deb
 Version: 1.4-1
 Size: 17566
-Installed-Size: 60
-MD5sum: 691c8ab8a0104c9819fd3cb781beac32
-SHA1: 397df19358a958aca9cbf3172ab3635adc9dab74
-SHA256: c9ba29468ef367c974f0604f49eb432d29c86aabf6ed1f1c27b9ae70eed3aae8
+Installed-Size: 172
+MD5sum: ea265046048dc5f4a1f646c09b58c326
+SHA1: 569e8dda2dacf578e5b30ba11bd54cb884b85db7
+SHA256: 233b69e58da755be1fdd611ec1d2131932029d228642b2b0d5dc21260d591ecb
 Description: Show Icons Repo ايقونات الاقسام
 Section: sn3pi
 Essential: yes
