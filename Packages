@@ -33,7 +33,7 @@ Installed-Size: 140
 
 Package: com.sn3pi.starvideo
 Name: VideoStar Hack
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.Sn3pi.icone
 Filename: ./debs/com.sn3pi.starvideo_1.0-3+debug_iphoneos-arm.deb
 Version: 1.0-3+debug
 Size: 112520
@@ -46,19 +46,19 @@ Description: VideoStar Pro
 Author: Sn3pi
 Section: sn3pi
 
-
 Package: com.Sn3pi.icone
-Description: لإظهار ايقونات الاقسام
+Name: Sn3pi Repo Icons
+Depends: mobilesubstrate
+Filename: ./debs/icon.deb
 Version: 1.4-1
-Section: sn3pi
 Size: 17566
 MD5sum: fff9fb52748f63a025f868d0e2772b13
 SHA1: 7a6c539275368989e2705c8f3c4d121d122a180e
 SHA256: f7e6bd4c518764363c5b6cd3ddb35607cc5caa96c8a6395cac337182be3a43a4
-Filename: ./debs/icon.deb
+Description: Show Icons Repo ايقونات الاقسام
+Section: sn3pi
 Essential: yes
 Maintainer: sn3pi <Adelrepo@gmail.com>
 Architecture: iphoneos-arm
-Name: Sn3pi Repo Icons
 Author: Sn3pi
 Sponsor: sn3pi <www.sn8pe.us>
