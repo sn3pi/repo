@@ -1,7 +1,7 @@
 Package: com.twickd.td.bundleidsxi
 Version: 2.0
 Architecture: iphoneos-arm
-Installed-Size: 432 
+Installed-Size: 432
 Depends: mobilesubstrate, firmware (>=13.0)
 Filename: ./debs/ac78c3719087eafbcdad8782807c848c.deb
 Size: 49196
@@ -34,7 +34,7 @@ Name: Sn3pi Repo Icons
 Depends: mobilesubstrate
 Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
 Version: 1.4-1
-Installed-Size: 60
+Installed-Size: 618
 Size: 46314
 MD5sum: 467b35c2e59f319a89a64c55f838e34c
 SHA1: 551f8ae5503c73eb1465b105b077bbbae5d29da3
