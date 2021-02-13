@@ -18,9 +18,7 @@ Package: com.Sn3pi.icone
 Name: Sn3pi icone
 Version: 1.4-1
 Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
-Tag: purpose::extension
 Size: 46314
-Installed-Size: 744
 MD5sum: 467b35c2e59f319a89a64c55f838e34c
 SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
 SHA1: 551f8ae5503c73eb1465b105b077bbbae5d29da3
@@ -37,31 +35,14 @@ Priority: required
 Package: com.sn3pi.starvideo
 Name: VideoStar Hack
 Depends: mobilesubstrate
-Filename: ./debs/com.sn3pi.starvideo_1.0-4+debug_iphoneos-arm.deb
-Version: 1.0-4+debug
-Size: 112516
-Installed-Size: 744
-MD5sum: 9f2d50f9c8a54a352ae291c1348de277
-SHA1: f4aa58bf3d0906a18d369baae5cfc6409d4d84ba
-SHA256: 1f58a4e7bb31784d1ed1b6779f9b984f453f1bb22ddc84ba3e3cee4fbae9e91c
-Architecture: iphoneos-arm
-Description: VideoStar Pro
-Author: Sn3pi
-Section: hack
-
-
-Package: com.sn3pi.filza
-Name: FilzaHack
-Depends: mobilesubstrate
-Filename: ./debs/com.sn3pi.filza_1.0-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
 Version: 1.0
+Size: 6520
+Installed-Size: 108
+MD5sum: 03287fd71536536245ae40665fc61ced
+SHA1: f1207573f4dbab566d131ffe98c59ad03a3dbe98
+SHA256: 21e86b391e802923501aefdabf392ddea9b0dbbcfba72d860dbf1da22d2077a3
 Architecture: iphoneos-arm
-Description: Filza without activation
-Maintainer: Sn3pi
+Description: فتح كل المميزات وجميع الاكواد!
 Author: Sn3pi
-Size: 3040
-Installed-Size: 104
 Section: Tweaks
-MD5sum: 9ddef4927705ed876a545516b8b162fa
-SHA256: 8a29f157ec3de682a6dceb90b0adce89a0e0ebd9df6d8ef269723d88419f9acd
-SHA1: d20344b5ab7c41c847038b51599ccb3a008956b6
