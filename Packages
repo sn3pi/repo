@@ -17,6 +17,7 @@ Name: BundlleIDsXI0
 Package: com.Sn3pi.icone
 Name: Sn3pi icone
 Version: 1.4-1
+Depends: mobilesubstrate
 Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
 Size: 46314
 MD5sum: 467b35c2e59f319a89a64c55f838e34c
